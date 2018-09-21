@@ -1,0 +1,1 @@
+# TTN gateway map
